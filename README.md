@@ -1,9 +1,10 @@
 ## GoldenDict
-<hr>
-* [Windows](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows)
-* Link tham khảo cách cài của anh Hiếu Cao [here](https://youtu.be/Rz6HNXk4a4g) dành cho Windows
-* [MacOS](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X)
-* Link tham khảo cách cài của anh Hiếu Cao [here](https://youtu.be/5tsHXnAR3ww) dành cho MacOS
+##### Tra từ điển Offline , tra được từ nhiều nguồn từ điển , chức năng Scan tra từ với 1 click , free ...!
+
+* [Link tải cho Windows Users](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows)<br>
+* Link tham khảo cách cài của anh Hiếu Cao (Youtube Video : [here](https://youtu.be/Rz6HNXk4a4g)) dành cho Windows<br>
+* [Link tải cho MacOS Users](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X)<br>
+* Link tham khảo cách cài của anh Hiếu Cao (Youtube Video : [here](https://youtu.be/5tsHXnAR3ww)) dành cho MacOS<br>
 
 #### Thêm từ điển Japanese-English / Japanese-Vietnamese cho GoldenDict
 
@@ -29,4 +30,4 @@ Lúc cài về `GoldenDict` trống trơn, cần thêm từ điển vào:
 
 4. Bây giờ khi tra từ sẽ tự động play âm thanh
 
-##### Tham khảo cách cài chi tiết của anh Hiếu [here](https://github.com/hieuvijjo/essential_apps#goldendict)
+##### Tham khảo cách cài chi tiết của anh Hiếu (Github README : [here](https://github.com/hieuvijjo/essential_apps#goldendict))
