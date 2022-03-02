@@ -33,3 +33,5 @@ Lúc cài về `GoldenDict` trống trơn, cần thêm từ điển vào:
 4. Bây giờ khi tra từ sẽ tự động play âm thanh
 
 ##### Tham khảo cách cài chi tiết của anh Hiếu (Github README : [here](https://github.com/hieuvijjo/essential_apps#goldendict))
+
+_(Update 2022/03/02)_
