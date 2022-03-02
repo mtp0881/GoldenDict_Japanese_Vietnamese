@@ -1,6 +1,7 @@
 ## GoldenDict
 ##### Tra từ điển Offline , tra được từ nhiều nguồn từ điển , chức năng Scan tra từ với 1 click , free ...!
 
+<img  src="Demo.gif" alt="GoldenDict Demo" width="100%" style="border-radius:10px;overflow:hidden">
 
 * [Link tải cho Windows Users](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows)<br>
 * Link tham khảo cách cài của anh Hiếu Cao (Youtube Video : [here](https://youtu.be/Rz6HNXk4a4g)) dành cho Windows<br>
