@@ -34,4 +34,4 @@ Lúc cài về `GoldenDict` trống trơn, cần thêm từ điển vào:
 
 ##### Tham khảo cách cài chi tiết của anh Hiếu (Github README : [here](https://github.com/hieuvijjo/essential_apps#goldendict))
 
-<p dir='rtl'>_Update 2022/03/02_</p>
+<p dir='rtl'><i>_Update 2022/03/02_</i></p>
