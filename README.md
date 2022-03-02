@@ -1,4 +1,4 @@
-## GoldenDict
+## Tra từ điển Tiếng Nhật với GoldenDict (Monolingual, Bilingual)
 ##### Tra từ điển Offline , tra được từ nhiều nguồn từ điển , chức năng Scan tra từ với 1 click , free ...!
 
 <img  src="DemoDict.gif" alt="GoldenDict Demo" width="100%" style="border-radius:10px;overflow:hidden">
