@@ -1,0 +1,218 @@
+* {
+	font-family: "Montserrat";
+}
+
+a img {
+	width: 15px !important;
+	height: 15px !important;
+}
+
+html {
+	margin: 0;
+	border: none;
+}
+
+body {
+	font-family: "Montserrat";
+	font-size: 12px;
+	background-color: #EFEFEF;
+	padding: 3px 5px 3px 4px;
+	min-height: 100vh;
+	margin: 0;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+#gdfrom-cb33e81e326911914df32988ae33ba4f .programs_html p{margin-left: 5px;margin-bottom: 0px;overflow: hidden;}
+#gdfrom-cb33e81e326911914df32988ae33ba4f .programs_html{
+	margin-top: 5px;
+}
+
+
+#gdfrom-920a6aba12ad25b42e6337a03b3a95b5 {
+	display: none;
+}
+
+.gdarticle {
+	border: none;
+	border: 1px solid gray;
+	border-radius: 0 8px 0 0;
+	border: none;
+	border-radius: 6px;
+}
+
+.gddictname {
+	border-radius: 0 6px 0 6px;
+}
+
+.gdactivearticle .gddictname {
+	font-size: 9px;
+	border: none;
+}
+
+.gddictname {
+	font-size: 9px;
+	border: none;
+}
+
+.gdarticleseparator+script+.gdactivearticle .gddictname {
+	border-top: none;
+}
+
+.dsl_headwords p {
+	font-size: 13px;
+}
+
+.gddicticon img {
+	width: 8px;
+	height: 8px;
+}
+
+.collapse_expand_area img {
+	width: 8px;
+	height: 8px;
+	display: none;
+}
+
+h1,
+h2,
+h3 {
+	font-size: 13px !important;
+}
+
+#gdfrom-9846527d40174c35cd88490f22ae5aca .mdict .culture_drop,
+#gdfrom-9846527d40174c35cd88490f22ae5aca .mdict .synonym_drop {
+	display: none !important;
+}
+
+#gdfrom-9846527d40174c35cd88490f22ae5aca p {
+	margin: 0 0 3px 0;
+}
+
+
+/*#gdfrom-dddd0f73331d5c5a9af81adb1d82b4a3,#gdfrom-ecf8fe98cefd751f78331ee2c8d8e018{padding: 10px;}
+*/
+
+#gdfrom-ecf8fe98cefd751f78331ee2c8d8e018 .mdict:first-child br:first-child {
+	display: none;
+}
+
+#gdfrom-ecf8fe98cefd751f78331ee2c8d8e018 .mdict:first-child {
+	margin-top: 0;
+}
+
+.gdarticle {
+	padding: 6px;
+}
+
+.gddictname {
+	padding: 2px 5px;
+}
+
+.gddicttitle {
+	font-size: 8px;
+	text-transform: uppercase;
+	width: 50px !important;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+#gdfrom-dddd0f73331d5c5a9af81adb1d82b4a3 .sdct_m div:not(:last-child) {
+	margin-bottom: 3px;
+}
+
+#gdfrom-dddd0f73331d5c5a9af81adb1d82b4a3 .sdct_m div {
+	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+
+#gdfrom-dddd0f73331d5c5a9af81adb1d82b4a3 .gdarticlebody>div:first-child .dsl_headwords,
+.gdarticlebody>h3:first-child,
+#gdfrom-9846527d40174c35cd88490f22ae5aca .mdict .entry_name_head {
+	display: none !important;
+}
+
+#gdfrom-f76f7c5f14b9d71bf10795fd5b6412a1,
+#gdfrom-736b8dce6d41e23bb1aa78d42185c603 {
+	display: none;
+}
+
+.jcyqb,
+.yhtx,
+.ywtx,
+#gdfrom-9846527d40174c35cd88490f22ae5aca .audio,
+label .yyyl_drop,
+.yyyl_head,
+#_yyyl,
+.colloc {
+	display: none;
+}
+
+#gdfrom-9846527d40174c35cd88490f22ae5aca .mdict .yyyl_drop {
+	display: none !important;
+}
+
+#gdfrom-9846527d40174c35cd88490f22ae5aca .mdict .yyyl_head {
+	display: none !important;
+}
+
+#gdfrom-9846527d40174c35cd88490f22ae5aca .mdict .yyyl_part p:first-of-type {
+	display: none !important;
+}
+
+
+/*#gdfrom-9846527d40174c35cd88490f22ae5aca .mdict .yyyl_part{list-style:inside;
+     display:list-item;list-style-type: circle;}*/
+
+#gdfrom-9846527d40174c35cd88490f22ae5aca .mdict {
+	padding: 0 6px !important;
+	margin-top: 2px;
+}
+
+#gdfrom-8ee41dbdfed6296165d4a0e44b5b0ed9 .dsl_headwords {
+	padding: 0px !important;
+	margin-top: 2px;
+}
+
+#gdfrom-8ee41dbdfed6296165d4a0e44b5b0ed9 .dsl_definition {
+	margin-bottom: 5px;
+}
+
+#gdfrom-1c948075f9b7d7345d9ffaa3d972a3ce .mdict div {
+	margin-left: 0px !important;
+}
+
+#gdfrom-06420139116dcbc59d02b76f89d57c85 .mdict {
+	margin-left: 6px !important;
+}
+
+.dsl_headwords {
+	margin-bottom: 2px !important;
+	margin-top: 8px;
+}
+
+#gdarticlefrom-29abdb95e7de9e53e186c93bc221c934
+.dsl_definition {
+	margin-bottom: -14px !important;
+}
+
+#gdarticlefrom-29abdb95e7de9e53e186c93bc221c934,
+.dsl_definition {
+	padding: 0px 5px !important;
+}
+
+
+.mdict {
+	margin-top: 4px !important;
+	padding: 6px !important;
+}
+
+#gdfrom-ecf8fe98cefd751f78331ee2c8d8e018 font img{display: none;}
+
+#gdfrom-ecf8fe98cefd751f78331ee2c8d8e018 .mdict:not(:last-child) {
+	border-bottom: 1px solid #ddd;
+}
